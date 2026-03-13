@@ -17,8 +17,8 @@ This project demonstrates how offshore inspection data can be processed using Py
 
 ## Technologies
 
-Python  
-Pandas  
+Python
+Pandas
 
 ---
 
@@ -34,5 +34,5 @@ timestamp,asset,inspection_type,result
 
 ## Author
 
-Igor Carvalho  
+Igor Carvalho
 Python Developer | Offshore Operations Background
