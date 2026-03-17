@@ -32,6 +32,8 @@ timestamp,asset,inspection_type,result
 
 ---
 
+![Inspection Report](images/inspection-report.png.Png)
+
 ## Author
 
 Igor Carvalho
