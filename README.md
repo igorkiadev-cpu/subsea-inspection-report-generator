@@ -32,7 +32,7 @@ timestamp,asset,inspection_type,result
 
 ---
 
-![Inspection Report](images/inspection-report.png.Png)
+![Inspection Report](inspection-report.png.PNG)
 
 ## Author
 
